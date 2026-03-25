@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "private": true,
+  "version": "1.0.0",
+  "main": "functions.js",
+  "dependencies": {
+    "firebase-admin": "^11.11.1",
+    "firebase-functions": "^4.9.0"
+  }
+}
